@@ -1,7 +1,4 @@
-//
-//  node.hpp
-//  cs130a pa1
-//
+
 //  Created by James wang on 4/26/17.
 //  Copyright © 2017 James wang. All rights reserved.
 //

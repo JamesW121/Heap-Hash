@@ -57,37 +57,7 @@ int main() {
     
     return 0;
   
-/*
 
-
-    TableHeap test;
-    test.insert_hash(1);
-    test.insert_hash(2);
-    test.insert_hash(3);
-    test.insert_hash(4);
-    test.insert_hash(5);
-    
-    test.matchmax();
-     test.matchmax();
-    
-    //test.lookup_hash(0);
- 
-
-    //test.insert_hash(1);
-    //test.insert_hash(34);
-    //test.insert_hash(-1);
-    //test.delete_num_hash(214);
-    //test.delete_num_hash(124);
-    //test.delete_num_hash(-1);
-    
-    //test.lookup_hash(124);
-    //test.lookup_hash(102);
-    //test.lookup_hash(4365);
-    
-    
-    //test.print_all();
-
-*/
     
 }
 
